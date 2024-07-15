@@ -36,3 +36,7 @@ button {
     background: var(--theme-color);
     color: #fff;
 }
+
+.page-links {
+    margin-bottom: 50px; /* 调整这个值以增加或减少间距 */
+}
